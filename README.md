@@ -22,3 +22,8 @@ Implemented an Apache Airflow-powered data pipeline for financial podcasts, enha
 **Task 5: Advanced Speech-to-Text Integration:**
 * Incorporated advanced speech recognition technology, "vosk" to transcribe downloaded audio content automatically.
 * Stored transcribed data within the SQLite database for further analysis and querying.
+
+**Output Screenhots :**
+
+Airflow DAG :
+![ALT text](https://github.com/Pralhad789/Streamlining-Podcast-Data-Processing-with-Apache-Airflow/blob/main/Airflow_DAG.png)
