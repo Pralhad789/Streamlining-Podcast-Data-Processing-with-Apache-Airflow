@@ -26,4 +26,5 @@ Implemented an Apache Airflow-powered data pipeline for financial podcasts, enha
 **Output Screenhots :**
 
 Airflow DAG :
+
 ![ALT text](https://github.com/Pralhad789/Streamlining-Podcast-Data-Processing-with-Apache-Airflow/blob/main/Airflow_DAG.png)
